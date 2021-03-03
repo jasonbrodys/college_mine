@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">college_mine</string>
+    <string name="logo_name">AUBIT</string>
+    <string name="slogan_name">new journey!</string>
+    <string name="element_text">hello everyone</string>
+    <string name="background_image">background_image</string>
+
+
+    <!---on boarding screen-->
+    <!---Titles-->
+    <string name="first_slide_title">Stay connected!</string>
+    <string name="second_slide_title">Know your institution</string>
+    <string name="third_slide_title">whats poppin?</string>
+    <string name="fourth_slide_title">Welcomne to AUBIT</string>
+
+    <!---Description-->
+     <string name="first_slide_description">Stay connected to your institution where you studied and cherished every moments of your colllege life via this app </string>
+     <string name="second_slide_description">know more about your institution while you are walking on them and enjoying every moments </string>
+     <string name="third_slide_description">Know what is happening on the institution every announcement , news and events to keep you updated  </string>
+     <string name="fourth_slide_description">PROGRESS THROUGH KNOWLEDGE  </string>
+
+
+    <!---buttons-->
+    <string name="skip_btn">Skip</string>
+    <string name="Next_btn">Next</string>
+    <string name="lets_get_started">LETS GET STARTED</string>
+    <string name="textview">TextView</string>
+
+</resources>
